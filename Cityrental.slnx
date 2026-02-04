@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Cityrental.API/Cityrental.API.csproj" />
+  <Project Path="Cityrental.Application/Cityrental.Application.csproj" />
+  <Project Path="Cityrental.Domain/Cityrental.Domain.csproj" />
+  <Project Path="Cityrental.Infrastructure/Cityrental.Infrastructure.csproj" />
+</Solution>
