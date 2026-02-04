@@ -1,7 +1,344 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Backend\\Cityrental\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A11F9D-DF44-A267-71F3-41D21D6AB411}|Cityrental.API\\Cityrental.API.csproj|c:\\backend\\cityrental\\cityrental.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A11F9D-DF44-A267-71F3-41D21D6AB411}|Cityrental.API\\Cityrental.API.csproj|solutionrelative:cityrental.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A11F9D-DF44-A267-71F3-41D21D6AB411}|Cityrental.API\\Cityrental.API.csproj|c:\\backend\\cityrental\\cityrental.api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A11F9D-DF44-A267-71F3-41D21D6AB411}|Cityrental.API\\Cityrental.API.csproj|solutionrelative:cityrental.api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A11F9D-DF44-A267-71F3-41D21D6AB411}|Cityrental.API\\Cityrental.API.csproj|c:\\backend\\cityrental\\cityrental.api\\controllers\\rentalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A11F9D-DF44-A267-71F3-41D21D6AB411}|Cityrental.API\\Cityrental.API.csproj|solutionrelative:cityrental.api\\controllers\\rentalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A11F9D-DF44-A267-71F3-41D21D6AB411}|Cityrental.API\\Cityrental.API.csproj|c:\\backend\\cityrental\\cityrental.api\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A11F9D-DF44-A267-71F3-41D21D6AB411}|Cityrental.API\\Cityrental.API.csproj|solutionrelative:cityrental.api\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A11F9D-DF44-A267-71F3-41D21D6AB411}|Cityrental.API\\Cityrental.API.csproj|c:\\backend\\cityrental\\cityrental.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A11F9D-DF44-A267-71F3-41D21D6AB411}|Cityrental.API\\Cityrental.API.csproj|solutionrelative:cityrental.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|c:\\backend\\cityrental\\cityrental.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|solutionrelative:cityrental.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|c:\\backend\\cityrental\\cityrental.infrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|solutionrelative:cityrental.infrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|c:\\backend\\cityrental\\cityrental.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|solutionrelative:cityrental.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|c:\\backend\\cityrental\\cityrental.infrastructure\\data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|solutionrelative:cityrental.infrastructure\\data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|c:\\backend\\cityrental\\cityrental.infrastructure\\data\\configurations\\reviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|solutionrelative:cityrental.infrastructure\\data\\configurations\\reviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|c:\\backend\\cityrental\\cityrental.infrastructure\\identity\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|solutionrelative:cityrental.infrastructure\\identity\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|c:\\backend\\cityrental\\cityrental.infrastructure\\identity\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|solutionrelative:cityrental.infrastructure\\identity\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|c:\\backend\\cityrental\\cityrental.infrastructure\\identity\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|solutionrelative:cityrental.infrastructure\\identity\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|c:\\backend\\cityrental\\cityrental.infrastructure\\data\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|solutionrelative:cityrental.infrastructure\\data\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|c:\\backend\\cityrental\\cityrental.infrastructure\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|solutionrelative:cityrental.infrastructure\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|c:\\backend\\cityrental\\cityrental.infrastructure\\data\\configurations\\notificationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|solutionrelative:cityrental.infrastructure\\data\\configurations\\notificationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|c:\\backend\\cityrental\\cityrental.infrastructure\\data\\configurations\\locationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|solutionrelative:cityrental.infrastructure\\data\\configurations\\locationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|c:\\backend\\cityrental\\cityrental.infrastructure\\data\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|solutionrelative:cityrental.infrastructure\\data\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|c:\\backend\\cityrental\\cityrental.infrastructure\\data\\configurations\\brandconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|solutionrelative:cityrental.infrastructure\\data\\configurations\\brandconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|c:\\backend\\cityrental\\cityrental.infrastructure\\data\\configurations\\paymentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|solutionrelative:cityrental.infrastructure\\data\\configurations\\paymentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|c:\\backend\\cityrental\\cityrental.infrastructure\\data\\configurations\\rentalconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|solutionrelative:cityrental.infrastructure\\data\\configurations\\rentalconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|c:\\backend\\cityrental\\cityrental.infrastructure\\data\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|solutionrelative:cityrental.infrastructure\\data\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|c:\\backend\\cityrental\\cityrental.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77ADF-DD8C-5073-507C-3F2AD0E7B507}|Cityrental.Infrastructure\\Cityrental.Infrastructure.csproj|solutionrelative:cityrental.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\validators\\rental\\createrentaldtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\validators\\rental\\createrentaldtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\validators\\car\\createcardtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\validators\\car\\createcardtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\validators\\auth\\registerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\validators\\auth\\registerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\validators\\auth\\loginrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\validators\\auth\\loginrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\interfaces\\irentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\interfaces\\irentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\review\\createreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\review\\createreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\review\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\review\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\payment\\processpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\payment\\processpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\payment\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\payment\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\rental\\updaterentalstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\rental\\updaterentalstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\rental\\createrentaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\rental\\createrentaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\rental\\rentaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\rental\\rentaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\car\\carfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\car\\carfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\car\\updatecardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\car\\updatecardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\car\\createcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\car\\createcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\car\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\car\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\user\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\user\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\user\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\user\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\auth\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\auth\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\auth\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\auth\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\common\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\common\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|c:\\backend\\cityrental\\cityrental.application\\dtos\\common\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF803A8-14F3-89C9-F9BB-59FE048AF200}|Cityrental.Application\\Cityrental.Application.csproj|solutionrelative:cityrental.application\\dtos\\common\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\exceptions\\insufficientbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\exceptions\\insufficientbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\exceptions\\carnotavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\exceptions\\carnotavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\enums\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\enums\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\enums\\pamyentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\enums\\pamyentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\enums\\rentalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\enums\\rentalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\enums\\drivetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\enums\\drivetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\enums\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\enums\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\enums\\transmissiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\enums\\transmissiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\enums\\carstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\enums\\carstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\entities\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\entities\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|c:\\backend\\cityrental\\cityrental.domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC544CE-FE01-EFCB-0065-1E2CCB6561F8}|Cityrental.Domain\\Cityrental.Domain.csproj|solutionrelative:cityrental.domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +346,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +355,1098 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.API\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Cityrental.API\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.API\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Cityrental.API\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:39:17.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RentalsController.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.API\\Controllers\\RentalsController.cs",
+              "RelativeDocumentMoniker": "Cityrental.API\\Controllers\\RentalsController.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.API\\Controllers\\RentalsController.cs",
+              "RelativeToolTip": "Cityrental.API\\Controllers\\RentalsController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:38:56.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.API\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "Cityrental.API\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.API\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "Cityrental.API\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:38:25.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Cityrental.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Cityrental.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACYAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:37:47.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.API\\Program.cs",
+              "RelativeDocumentMoniker": "Cityrental.API\\Program.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.API\\Program.cs",
+              "RelativeToolTip": "Cityrental.API\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:37:09.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Cityrental.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Cityrental.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:36:38.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:06:57.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "Cityrental.Infrastructure\\Services\\FileService.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Services\\FileService.cs",
+              "RelativeToolTip": "Cityrental.Infrastructure\\Services\\FileService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:36:21.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Cityrental.Infrastructure\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Services\\EmailService.cs",
+              "RelativeToolTip": "Cityrental.Infrastructure\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:36:06.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\Services\\PaymentService.cs",
+              "RelativeToolTip": "Cityrental.Application\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:34:39.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\Services\\RentalService.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\Services\\RentalService.cs",
+              "RelativeToolTip": "Cityrental.Application\\Services\\RentalService.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAuwMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:34:24.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\Services\\CarService.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\Services\\CarService.cs",
+              "RelativeToolTip": "Cityrental.Application\\Services\\CarService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwBcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:34:00.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Cityrental.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:32:14.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Identity\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Cityrental.Infrastructure\\Identity\\PasswordHasher.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Identity\\PasswordHasher.cs",
+              "RelativeToolTip": "Cityrental.Infrastructure\\Identity\\PasswordHasher.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAzwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:31:53.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Identity\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Cityrental.Infrastructure\\Identity\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Identity\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "Cityrental.Infrastructure\\Identity\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:31:36.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Identity\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Cityrental.Infrastructure\\Identity\\JwtSettings.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Identity\\JwtSettings.cs",
+              "RelativeToolTip": "Cityrental.Infrastructure\\Identity\\JwtSettings.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:31:21.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReviewConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Configurations\\ReviewConfiguration.cs",
+              "RelativeDocumentMoniker": "Cityrental.Infrastructure\\Data\\Configurations\\ReviewConfiguration.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Configurations\\ReviewConfiguration.cs",
+              "RelativeToolTip": "Cityrental.Infrastructure\\Data\\Configurations\\ReviewConfiguration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:28:09.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Cityrental.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "Cityrental.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:24:37.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Cityrental.Infrastructure\\Data\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Cityrental.Infrastructure\\Data\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:30:46.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Cityrental.Infrastructure\\Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Cityrental.Infrastructure\\Data\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:30:25.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NotificationConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Configurations\\NotificationConfiguration.cs",
+              "RelativeDocumentMoniker": "Cityrental.Infrastructure\\Data\\Configurations\\NotificationConfiguration.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Configurations\\NotificationConfiguration.cs",
+              "RelativeToolTip": "Cityrental.Infrastructure\\Data\\Configurations\\NotificationConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:29:04.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LocationConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Configurations\\LocationConfiguration.cs",
+              "RelativeDocumentMoniker": "Cityrental.Infrastructure\\Data\\Configurations\\LocationConfiguration.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Configurations\\LocationConfiguration.cs",
+              "RelativeToolTip": "Cityrental.Infrastructure\\Data\\Configurations\\LocationConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:28:48.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Cityrental.Infrastructure\\Data\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Cityrental.Infrastructure\\Data\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:28:33.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BrandConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Configurations\\BrandConfiguration.cs",
+              "RelativeDocumentMoniker": "Cityrental.Infrastructure\\Data\\Configurations\\BrandConfiguration.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Configurations\\BrandConfiguration.cs",
+              "RelativeToolTip": "Cityrental.Infrastructure\\Data\\Configurations\\BrandConfiguration.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:28:21.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:06:48.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PaymentConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Configurations\\PaymentConfiguration.cs",
+              "RelativeDocumentMoniker": "Cityrental.Infrastructure\\Data\\Configurations\\PaymentConfiguration.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Configurations\\PaymentConfiguration.cs",
+              "RelativeToolTip": "Cityrental.Infrastructure\\Data\\Configurations\\PaymentConfiguration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:27:54.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RentalConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Configurations\\RentalConfiguration.cs",
+              "RelativeDocumentMoniker": "Cityrental.Infrastructure\\Data\\Configurations\\RentalConfiguration.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Configurations\\RentalConfiguration.cs",
+              "RelativeToolTip": "Cityrental.Infrastructure\\Data\\Configurations\\RentalConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:27:38.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CarConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Configurations\\CarConfiguration.cs",
+              "RelativeDocumentMoniker": "Cityrental.Infrastructure\\Data\\Configurations\\CarConfiguration.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\Configurations\\CarConfiguration.cs",
+              "RelativeToolTip": "Cityrental.Infrastructure\\Data\\Configurations\\CarConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:27:10.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Cityrental.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Cityrental.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:24:06.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Cityrental.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:23:00.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateRentalDtoValidator.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\Validators\\Rental\\CreateRentalDtoValidator.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\Validators\\Rental\\CreateRentalDtoValidator.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\Validators\\Rental\\CreateRentalDtoValidator.cs",
+              "RelativeToolTip": "Cityrental.Application\\Validators\\Rental\\CreateRentalDtoValidator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:22:21.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateCarDtoValidator.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\Validators\\Car\\CreateCarDtoValidator.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\Validators\\Car\\CreateCarDtoValidator.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\Validators\\Car\\CreateCarDtoValidator.cs",
+              "RelativeToolTip": "Cityrental.Application\\Validators\\Car\\CreateCarDtoValidator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:21:52.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterRequestValidator.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\Validators\\Auth\\RegisterRequestValidator.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\Validators\\Auth\\RegisterRequestValidator.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\Validators\\Auth\\RegisterRequestValidator.cs",
+              "RelativeToolTip": "Cityrental.Application\\Validators\\Auth\\RegisterRequestValidator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:21:22.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginRequestValidator.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\Validators\\Auth\\LoginRequestValidator.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\Validators\\Auth\\LoginRequestValidator.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\Validators\\Auth\\LoginRequestValidator.cs",
+              "RelativeToolTip": "Cityrental.Application\\Validators\\Auth\\LoginRequestValidator.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:21:11.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\Interfaces\\IFileService.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\Interfaces\\IFileService.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\Interfaces\\IFileService.cs",
+              "RelativeToolTip": "Cityrental.Application\\Interfaces\\IFileService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:20:37.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "Cityrental.Application\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:20:25.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\Interfaces\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\Interfaces\\IPaymentService.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\Interfaces\\IPaymentService.cs",
+              "RelativeToolTip": "Cityrental.Application\\Interfaces\\IPaymentService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:20:05.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IRentalService.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\Interfaces\\IRentalService.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\Interfaces\\IRentalService.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\Interfaces\\IRentalService.cs",
+              "RelativeToolTip": "Cityrental.Application\\Interfaces\\IRentalService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:19:52.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\Interfaces\\ICarService.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\Interfaces\\ICarService.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\Interfaces\\ICarService.cs",
+              "RelativeToolTip": "Cityrental.Application\\Interfaces\\ICarService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:19:42.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Cityrental.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:19:30.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Cityrental.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:19:18.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Cityrental.Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:19:03.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Cityrental.Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:18:46.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CreateReviewDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Review\\CreateReviewDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\Review\\CreateReviewDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Review\\CreateReviewDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\Review\\CreateReviewDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:18:14.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Review\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\Review\\ReviewDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Review\\ReviewDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\Review\\ReviewDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:18:00.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProcessPaymentDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Payment\\ProcessPaymentDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\Payment\\ProcessPaymentDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Payment\\ProcessPaymentDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\Payment\\ProcessPaymentDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:17:39.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Payment\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\Payment\\PaymentDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Payment\\PaymentDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\Payment\\PaymentDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:17:24.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UpdateRentalStatusDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Rental\\UpdateRentalStatusDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\Rental\\UpdateRentalStatusDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Rental\\UpdateRentalStatusDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\Rental\\UpdateRentalStatusDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:16:56.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateRentalDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Rental\\CreateRentalDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\Rental\\CreateRentalDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Rental\\CreateRentalDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\Rental\\CreateRentalDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:16:39.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RentalDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Rental\\RentalDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\Rental\\RentalDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Rental\\RentalDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\Rental\\RentalDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:15:52.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CarFilterDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Car\\CarFilterDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\Car\\CarFilterDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Car\\CarFilterDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\Car\\CarFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:15:26.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UpdateCarDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Car\\UpdateCarDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\Car\\UpdateCarDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Car\\UpdateCarDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\Car\\UpdateCarDto.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAywBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:15:14.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateCarDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Car\\CreateCarDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\Car\\CreateCarDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Car\\CreateCarDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\Car\\CreateCarDto.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA2wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:14:53.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CarDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Car\\CarDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\Car\\CarDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Car\\CarDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\Car\\CarDto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA0wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:14:40.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\User\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\User\\ChangePasswordDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\User\\ChangePasswordDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\User\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:14:21.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\User\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\User\\UpdateProfileDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\User\\UpdateProfileDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\User\\UpdateProfileDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:14:07.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\User\\UserDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\User\\UserDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\User\\UserDto.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:13:47.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "RefreshTokenRequestDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Auth\\RefreshTokenRequestDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\Auth\\RefreshTokenRequestDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Auth\\RefreshTokenRequestDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\Auth\\RefreshTokenRequestDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:12:43.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Auth\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\Auth\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Auth\\RegisterRequestDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\Auth\\RegisterRequestDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:12:28.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Auth\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\Auth\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Auth\\LoginResponseDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\Auth\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:12:06.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Auth\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\Auth\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Auth\\LoginRequestDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\Auth\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:11:45.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\Common\\ApiResponse.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\Common\\ApiResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:11:20.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "PaginationDto.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Common\\PaginationDto.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\Common\\PaginationDto.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Common\\PaginationDto.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\Common\\PaginationDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:11:02.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "PaginatedResult.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Common\\PaginatedResult.cs",
+              "RelativeDocumentMoniker": "Cityrental.Application\\DTOs\\Common\\PaginatedResult.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Application\\DTOs\\Common\\PaginatedResult.cs",
+              "RelativeToolTip": "Cityrental.Application\\DTOs\\Common\\PaginatedResult.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:10:46.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "InsufficientBalanceException.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Exceptions\\InsufficientBalanceException.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Exceptions\\InsufficientBalanceException.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Exceptions\\InsufficientBalanceException.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Exceptions\\InsufficientBalanceException.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:10:19.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CarNotAvailableException.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Exceptions\\CarNotAvailableException.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Exceptions\\CarNotAvailableException.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Exceptions\\CarNotAvailableException.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Exceptions\\CarNotAvailableException.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:10:13.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:10:04.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "NotificationType.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Enums\\NotificationType.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Enums\\NotificationType.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Enums\\NotificationType.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Enums\\NotificationType.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:09:58.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Enums\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Enums\\PaymentMethod.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Enums\\PaymentMethod.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Enums\\PaymentMethod.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:09:32.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "PamyentStatus.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Enums\\PamyentStatus.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Enums\\PamyentStatus.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Enums\\PamyentStatus.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Enums\\PamyentStatus.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:09:26.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "RentalStatus.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Enums\\RentalStatus.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Enums\\RentalStatus.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Enums\\RentalStatus.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Enums\\RentalStatus.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:09:20.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "DriveType.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Enums\\DriveType.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Enums\\DriveType.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Enums\\DriveType.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Enums\\DriveType.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:09:13.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "FuelType.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Enums\\FuelType.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Enums\\FuelType.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Enums\\FuelType.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Enums\\FuelType.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:09:07.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "TransmissionType.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Enums\\TransmissionType.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Enums\\TransmissionType.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Enums\\TransmissionType.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Enums\\TransmissionType.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:09:01.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CarStatus.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Enums\\CarStatus.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Enums\\CarStatus.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Enums\\CarStatus.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Enums\\CarStatus.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:08:54.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Enums\\UserRole.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:08:44.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:08:25.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Entities\\Review.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\Review.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Entities\\Review.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:08:16.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvwkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:08:06.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\Rental.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Entities\\Rental.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\Rental.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Entities\\Rental.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:07:55.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\Location.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Entities\\Location.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\Location.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Entities\\Location.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:07:43.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:07:32.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\Brand.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Entities\\Brand.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\Brand.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Entities\\Brand.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:07:25.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "Cityrental.Domain\\Entities\\Car.cs",
+              "ToolTip": "C:\\Backend\\Cityrental\\Cityrental.Domain\\Entities\\Car.cs",
+              "RelativeToolTip": "Cityrental.Domain\\Entities\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:07:09.866Z",
+              "EditorCaption": ""
             }
           ]
         }
